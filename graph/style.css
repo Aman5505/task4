@@ -1,0 +1,26 @@
+h2 {
+    font-family: Arial, Helvetica, ;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#myChart {
+    background-color: rgba(211, 211, 211, 0.733);
+    margin: 0 auto;
+    height: 500px;
+    max-width: 900px;
+    padding: 20px;
+
+}
+
+
+.chart-container {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    height: 400px;
+
+}
